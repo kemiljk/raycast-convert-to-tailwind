@@ -22,7 +22,7 @@ export default function Command() {
       navigationTitle="Pixels to Tailwind"
       searchBarPlaceholder="Search your Pixels"
     >
-      <List.Section title="Tailwind units">
+      <List.Section title="Pixels as Tailwind units">
         <List.Item
           title={tw}
           actions={
@@ -32,7 +32,7 @@ export default function Command() {
           }
         />
       </List.Section>
-      <List.Section title="In pixels">
+      <List.Section title="Tailwind units as pixels">
         <List.Item
           title={px}
           actions={
