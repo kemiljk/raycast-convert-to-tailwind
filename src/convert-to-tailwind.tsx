@@ -21,8 +21,8 @@ export default function Command() {
   return (
     <List
       onSearchTextChange={handleOnTextChange}
-      navigationTitle="Pixels to Tailwind"
-      searchBarPlaceholder="Search your Pixels"
+      navigationTitle="Pixels <–> Tailwind"
+      searchBarPlaceholder="Convert Pixels or Tailwind units"
     >
       <List.Section title={"Tailwind units"}>
         <List.Item
