@@ -2,7 +2,7 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "px-to-tailwind",
   "title": "Px to Tailwind",
-  "description": "Converts pixels to Tailwind class values",
+  "description": "Converts pixels to Tailwind class values and back",
   "icon": "icon.png",
   "author": "kemiljk",
   "categories": [
@@ -14,7 +14,7 @@
     {
       "name": "convert-to-tailwind",
       "title": "Convert To Tailwind",
-      "description": "Enables a quick and easy pixel to Tailwind class conversion",
+      "description": "Enables a quick and easy pixel to Tailwind class conversion or back",
       "mode": "view"
     }
   ],
